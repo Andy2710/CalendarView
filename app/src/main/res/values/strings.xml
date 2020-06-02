@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CalendarView</string>
+    <string name="btnOk">Ok</string>
+    <string name="btnStart">START</string>
+    <string name="Ok">OK</string>
+    <string name="btnEnd">END</string>
+    <string name="timeToStart">Дата-время старта:</string>
+    <string name="timeToEnd">\Дата-время окончания: \"</string>
+    <string name="startBtn">дата-время старта задачи:</string>
+    <string name="endBtn">дата-время окончания задачи:</string>
+</resources>
